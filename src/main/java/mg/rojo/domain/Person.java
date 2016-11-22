@@ -1,4 +1,4 @@
-package mg.rojo;
+package mg.rojo.domain;
 
 import java.util.Calendar;
 

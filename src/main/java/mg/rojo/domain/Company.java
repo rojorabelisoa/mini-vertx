@@ -1,4 +1,4 @@
-package mg.rojo;
+package mg.rojo.domain;
 
 /**
  * Created by dida on 11/22/16.
