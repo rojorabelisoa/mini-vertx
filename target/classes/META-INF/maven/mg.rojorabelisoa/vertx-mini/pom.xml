@@ -5,5 +5,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>vertx-mini</name>
   <description>vertx-mini</description>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <!-- dida : to say that you will use java 8 -->
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
   	
 </project>
